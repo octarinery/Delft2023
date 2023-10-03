@@ -1,3 +1,3 @@
 ---
-title: Account of the trip surrounding [ultrasound school](https://wt.imphys.tudelft.nl/).
+title: Delft 2023
 ---
